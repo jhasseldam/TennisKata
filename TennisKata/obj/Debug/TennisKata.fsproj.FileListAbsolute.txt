@@ -1,0 +1,8 @@
+C:\Dev\TennisKata\TennisKata\bin\Debug\TennisKata.exe.config
+C:\Dev\TennisKata\TennisKata\bin\Debug\TennisKata.XML
+C:\Dev\TennisKata\TennisKata\bin\Debug\TennisKata.exe
+C:\Dev\TennisKata\TennisKata\bin\Debug\TennisKata.pdb
+C:\Dev\TennisKata\TennisKata\bin\Debug\FSharp.Core.dll
+C:\Dev\TennisKata\TennisKata\bin\Debug\FSharp.Core.xml
+C:\Dev\TennisKata\TennisKata\obj\Debug\TennisKata.exe
+C:\Dev\TennisKata\TennisKata\obj\Debug\TennisKata.pdb
